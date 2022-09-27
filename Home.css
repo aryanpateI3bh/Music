@@ -1,0 +1,161 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+/*NavBar Css*/
+.NavBar{
+	height:100%;
+	width:60px;
+	background-color:#F1F6F9;
+	position: absolute;
+}
+.NavBar_ul{
+	margin-left: -15px;
+	margin-top: 50px;
+	list-style: none;
+}
+.NavBar_li{
+	padding:0px 0px 50px 0px;
+}
+.navbar-img{
+	height: 15px;
+	width: 15px;
+}
+/*Header*/
+
+.Header{
+	height: 180px;
+	width: 100%px;
+	background-color:#394867;
+}
+.header_img{
+	position: absolute;
+	margin-left:75px;
+	height: 150px;
+	width: 150px;
+	margin-top: 16px;
+}
+.sub-header{
+	position: absolute;
+	display: block;
+	margin-left:260px;
+	height: 100px;
+}
+.sub-header p{
+	font-size: 12px;
+	color: white;
+}
+.sub-header h3{
+	color: white;
+}
+.sub-header2{
+	margin-left: 260px;
+	margin-top: 130px;
+	position: absolute;
+	display: inline-flex;
+	height: 30px;
+	width: 300px;
+}
+.sub-header21 img{
+	height: 10px;
+	width: 10px;
+}
+.sub-header21{
+	height: 20px;
+	width: 100px;
+	margin-top: 5px;
+	/*position: absolute;*/
+	display: inline-flex;
+}
+
+.sub-header21 p{
+	font-size: 15px;
+	margin-left: 15px;
+	position: absolute;
+	margin-top: -4px;
+
+}
+.sub-header31 img{
+	height: 10px;
+	width: 10px;
+	/*margin-left: 75px;*/
+}
+.sub-header31{
+	height: 20px;
+	width: 100px;
+	margin-top: 5px;
+	/*position: absolute;*/
+	display: inline-flex;
+	/*background-color: red;*/
+	margin-left:-28px;
+}
+
+.sub-header31 p{
+	font-size: 15px;
+	margin-left: 15px;
+	position: absolute;
+	margin-top: -4px;
+	/*color: white;*/
+}
+.sub-header41 img{
+	height: 10px;
+	width: 10px;
+	/*margin-left: 75px;*/
+}
+.sub-header41{
+	height: 20px;
+	width: 100px;
+	margin-top: 5px;
+	display: inline-flex;
+	margin-left:-28px;
+}
+
+.sub-header41 p{
+	font-size: 15px;
+	margin-left: 15px;
+	position: absolute;
+	margin-top: -4px;
+	/*color: white;*/
+}
+.foot{
+	position: absolute;
+	margin-top: 530px;
+	height:70px;
+	width: 95%;
+	background-color:#394867;
+	margin-left: 60px;
+}
+.foot img{
+	margin-left: 15px;
+	margin-top:10px;
+	height: 50px;
+	width: 50px;
+}
+.sub-foot img{
+	height: 17px;
+	width: 17px;
+	padding: 0px 0px 20px 120px;
+}
+.sub-foot{
+	float: right;
+	margin-right: 160px;
+	margin-top: 20px;
+}
+.song-list{
+	position: absolute;
+	height: 200px;
+	width: 95%;
+	margin-left: 60px;
+	/*background-color: red;*/
+	margin-top: 180px;
+}
+.table{
+	/*border: 1px solid black;*/
+	width: 100%;
+	border-collapse: collapse;
+}
+.table th{
+	padding:10px;
+  	background-color: rgba(150, 212, 212, 0.4);
+}
+}
